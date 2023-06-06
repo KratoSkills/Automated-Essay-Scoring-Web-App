@@ -7,7 +7,7 @@ The motivation for the "Automated Essay Scoring Web App" project is to provide a
 "Automated Essay Scoring Web App" project aims to make essay grading more accessible and available to students and teachers worldwide. By offering a free, open-source solution, the project helps level the playing field and provides opportunities for learners from all backgrounds to benefit from modern technology.
 
 ## Dataset
-The dataset we are using is ‘The Hewlett Foundation: Automated Essay Scoring Dataset’ by ASAP. You can find in the Dataset folder.
+The dataset we are using is ‘The Hewlett Foundation: Automated Essay Scoring Dataset’ by ASAP. You can find in the **dataset** folder.
 
 ## Architecture Diagram
 ![Automated-Essay-Scoring-Web-App-Architecture](https://github.com/KratoSkills/Automated-Essay-Scoring-Web-App/assets/56100874/0e831906-b482-4523-a506-1b0859fe68df)
