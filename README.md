@@ -1,4 +1,4 @@
-# Automated-Essay-Scoring-Web-App
+# Automated Essay Scoring Web App
 The "Automated Essay Scoring Web App" leverages natural language processing (NLP) algorithms to evaluate the content, coherence, and grammar of an essay and assign it a score on a predetermined scale. The repository includes the backend server code, frontend user interface code, and various scripts and dependencies required to run the application.
 Users can upload their essays to the web app and receive instant feedback on their writing skills. The app provides detailed scoring metrics and feedback on various aspects of the essay, including its organization, argument structure, vocabulary usage, and more. The app is highly customizable and can be tailored to meet the specific needs of different users, such as teachers, students, or professional writers.
 
